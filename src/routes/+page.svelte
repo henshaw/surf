@@ -19,9 +19,8 @@
 </div>
 
 <style type="text/css">
-    body { font-family:"Georgia",serif;background:#F4F5F7;color:#050520; }
+    .container { text-align:center;font-display:optional;font-family:"Georgia",serif;background:#F4F5F7;color:#050520;font-size:120%; }
     h1, button { font-family:"-apple-system","BlinkMacSystemFont","Helvetica Neue","Segoe UI","Arial","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans",sans-serif; }
-    .container { text-align:center;font-display:optional; }
     button { font-size:2rem;text-transform:uppercase;font-weight:800;border-radius: 6px;background: #04AA6D;border: none;color: white;padding: 1rem;text-align: center;text-decoration: none;display: inline-block;margin: 4px 2px;cursor:pointer;box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2); }
     button:hover { background:#028958; }
     footer { margin:2rem 0;color:#555; }
